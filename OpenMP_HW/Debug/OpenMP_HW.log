@@ -1,0 +1,5 @@
+﻿  OpenMP_HW.cpp
+C:\Users\1\source\repos\OpenMP_HW\OpenMP_HW\OpenMP_HW.cpp(27,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\1\source\repos\OpenMP_HW\OpenMP_HW\OpenMP_HW.cpp(98,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\source\repos\OpenMP_HW\OpenMP_HW\OpenMP_HW.cpp(106,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OpenMP_HW.vcxproj -> C:\Users\1\source\repos\OpenMP_HW\Debug\OpenMP_HW.exe
